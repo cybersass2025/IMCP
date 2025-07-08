@@ -9,6 +9,10 @@ build/
 dist/
 *.tsbuildinfo
 
+# Compiled JavaScript files in source directories
+src/**/*.js
+src/**/*.js.map
+
 # Runtime data
 pids
 *.pid
